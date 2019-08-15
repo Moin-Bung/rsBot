@@ -11,6 +11,7 @@ import numpy as np
 #https://github.com/UB-Mannheim/tesseract/wiki
 #then just update the location below to the location on your own PC
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+#The amount of money in our inventory
 
 currentMoney = 0
 
